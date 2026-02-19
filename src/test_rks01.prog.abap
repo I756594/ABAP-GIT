@@ -34,3 +34,6 @@ SELECT matnr maktx mtart
 LOOP AT lt_result INTO ls_result.
   WRITE: / ls_result-matnr, ls_result-maktx.
 ENDLOOP.
+
+
+WRITE: 'Hello, ABAP World!'.
