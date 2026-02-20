@@ -46,3 +46,6 @@ WRITE: 'Hello, ABAP World!'.
 
 
 WRITE: 'Hello, ABAP World!3'.
+
+
+WRITE: 'Hello, ABAP World!'.
